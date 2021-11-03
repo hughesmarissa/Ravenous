@@ -1,7 +1,7 @@
 const apiKey = 'h8dPyMjsH5Yi1gYIO4nBv3yRnO4B_SzkYdHRAr8eSqpC1oo1JnMZRmPLvkFF7TOY_5VhflCR8u76O-hy8Ty5a-tVKHlFUnS8bS1qEq37hlD7Tq8zXkXKyTiGXOuCYXYx';
 
-const yelp = {
-  search(term, location, sortBy) {
+const Yelp = {
+  searchYelp(term, location, sortBy) {
     return fetch(`https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=${term}&location=${location}&sort_by=${sortBy}`), {
       headers: {
       Authorization: `Bearer: ${apiKey}`
@@ -30,4 +30,4 @@ const yelp = {
   } 
 };
 
-export default yelp;
+export default Yelp;
