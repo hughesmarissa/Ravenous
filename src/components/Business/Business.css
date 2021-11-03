@@ -2,12 +2,12 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 16.66rem;
+  width: 12.66rem;
   margin: 0 .5rem 2.3rem .5rem;
 }
 
 .Business .image-container {
-  height: 16.66rem;
+  height: 12.66rem;
   margin-bottom: 1rem;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .Business-reviews h3 {
-  color: #CCA353;
+  color: #e65a30;
   font-weight: 600;
 }
 
