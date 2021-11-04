@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hughesmarissa/Ravenousstatic/css/main.7bb725a9.chunk.css",
+    "main.js": "/hughesmarissa/Ravenousstatic/js/main.842cfa2a.chunk.js",
+    "main.js.map": "/hughesmarissa/Ravenousstatic/js/main.842cfa2a.chunk.js.map",
+    "runtime-main.js": "/hughesmarissa/Ravenousstatic/js/runtime-main.bc3de76e.js",
+    "runtime-main.js.map": "/hughesmarissa/Ravenousstatic/js/runtime-main.bc3de76e.js.map",
+    "static/js/2.7c571acd.chunk.js": "/hughesmarissa/Ravenousstatic/js/2.7c571acd.chunk.js",
+    "static/js/2.7c571acd.chunk.js.map": "/hughesmarissa/Ravenousstatic/js/2.7c571acd.chunk.js.map",
+    "static/js/3.ae7aecaf.chunk.js": "/hughesmarissa/Ravenousstatic/js/3.ae7aecaf.chunk.js",
+    "static/js/3.ae7aecaf.chunk.js.map": "/hughesmarissa/Ravenousstatic/js/3.ae7aecaf.chunk.js.map",
+    "index.html": "/hughesmarissa/Ravenousindex.html",
+    "static/css/main.7bb725a9.chunk.css.map": "/hughesmarissa/Ravenousstatic/css/main.7bb725a9.chunk.css.map",
+    "static/js/2.7c571acd.chunk.js.LICENSE.txt": "/hughesmarissa/Ravenousstatic/js/2.7c571acd.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/hughesmarissa/Ravenousstatic/media/background_search_mobile.a6f8ee50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc3de76e.js",
+    "static/js/2.7c571acd.chunk.js",
+    "static/css/main.7bb725a9.chunk.css",
+    "static/js/main.842cfa2a.chunk.js"
+  ]
+}
